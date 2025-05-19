@@ -1,0 +1,5 @@
+# extention .js는 무시
+*.js
+
+# test.js만은 무시하지 않음
+!test.js
